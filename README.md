@@ -1,2 +1,2 @@
-# BridgeLabz_Mumbai
+# BridgeLabz_Banglore
 All The Programs
